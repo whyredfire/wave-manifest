@@ -136,7 +136,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="wave" groups="wave" />
 
   <!-- Vendor -->
-  <project path="vendor/google/gms" name="wave-project/vendor_google_gms" remote="bitbucket" revision="r" groups="wave" />
+  <project path="vendor/google/gms" name="yukiscape/vendor_google_gms" remote="bitbucket" revision="r" groups="wave" />
   <project path="vendor/wave" name="vendor_wave" remote="wave" groups="wave" />
   
   <!-- Sepolicy -->
